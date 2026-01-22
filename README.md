@@ -41,7 +41,7 @@
 <hr style="border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 20px 0;">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slaganova&theme=radical" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slaganova&theme=radical" alt=""/>
-  <img src="https://github-readme-stats.vercel.app/api?username=slaganova&show_icons=true&theme=radical" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shekolon&theme=radical" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shekolon&theme=radical" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shekolon&show_icons=true&theme=radical" alt=""/>
 </p>
