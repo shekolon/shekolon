@@ -2,31 +2,13 @@
 
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ccff); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block;">
-    sʟᴀɢᴀɴᴏv_ᴅᴇᴠ
+    shekolon
   </span>
   <a href="https://">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg" align="center" style="vertical-align: middle; margin-right: 10px;"/>
   </a>
 </h1>
 </div>
-
-<table align="center" border="0" style="border: none; border-collapse: collapse; font-family: 'Segoe UI', Arial, sans-serif; max-width: 500px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);">
-  <tr>
-    <th colspan="2" style="text-align: center; padding: 20px 0 10px; font-size: 24px; color: #2c3e50; font-weight: 600;">About me</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle; text-align: left; padding: 20px 30px;">
-      <ul style="margin: 0; padding-left: 20px; list-style-type: none;">
-        <li style="padding: 8px 0; font-size: 16px; color: #34495e;">ɪ ᴄᴏᴅᴇ (sᴏᴍᴇᴛɪᴍᴇs)</li>
-        <li style="padding: 8px 0; font-size: 16px; color: #34495e;">ɪ ɢᴏᴛ ᴍᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏs ᴛʜᴀɴ ʙʀᴀɪɴᴄᴇʟʟs</li>
-        <li style="padding: 8px 0; font-size: 16px; color: #34495e;">🐈 <span style="vertical-align: middle;">cat enthusiast</span></li>
-      </ul>
-    </td>
-    <td style="vertical-align: middle; padding-right: 30px;">
-      <img src="https://i.pinimg.com/736x/c0/7f/d1/c07fd1cabd8d1144a7365dc4ed316bd7.jpg" width="120" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"/>
-    </td>
-  </tr>
-</table>
 
 <p align="center" style="margin: 20px 0;">
   <!-- Languages -->
